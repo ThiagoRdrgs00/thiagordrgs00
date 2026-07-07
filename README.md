@@ -23,25 +23,14 @@
 - Arquitetura de Software
 - Clean Code
 
-🚀 Desenvolvendo meu principal projeto:
-
-## AlfaMed
-
-Uma plataforma SaaS para clínicas médicas com foco em:
-
-- Gestão de pacientes
-- Agendamentos
-- Prontuários
-- Escalabilidade
-- Interface moderna
-
+🚀 Desenvolvendo um SaaS e um jogo
 ---
 
 # 💻 Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,php,java,postgres,mysql,supabase,html,css,git,github,vscode,docker,vercel" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,php,java,postgres,supabase,html,css,git,github,vscode,docker,vercel" />
 
 </div>
 
@@ -66,7 +55,7 @@ Uma plataforma SaaS para clínicas médicas com foco em:
 </a>
 
 <a href="mailto:thiagorodrigues221100@gmail.com">
-<img src="https://img.shields.io/badge/E-mail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
