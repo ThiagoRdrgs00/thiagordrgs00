@@ -1,6 +1,6 @@
 <div align="center">
 
-### Desenvolvedor Web • React • Node.js • TypeScript
+### Desenvolvedor Web Full Stack • React • Node.js • TypeScript
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Criando+soluções+web+modernas;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo" />
 
