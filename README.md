@@ -1,6 +1,6 @@
 <div align="center">
 
-### Desenvolvedor Web Full Stack • React • Node.js • TypeScript
+### Desenvolvedor Web Full Stack • Node.js • React • Python • PHP
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Criando+soluções+web+modernas;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo" />
 
@@ -10,37 +10,25 @@
 
 # 🚀 Sobre mim
 
-💻 Desenvolvedor Web na **Olostech**
-
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas
 
 🌱 Atualmente estudando
 
-- React
 - Node.js
+- React
 - TypeScript
-- PostgreSQL
+- Python
+- PHP
 - Arquitetura de Software
 - Clean Code
 
-🚀 Desenvolvendo um SaaS e um jogo
 ---
 
 # 💻 Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,php,java,postgres,supabase,html,css,git,github,vscode,docker,vercel" />
-
-</div>
-
----
-
-# 📈 Gráfico de Contribuições
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thiagordrgs00&theme=github-dark&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=nodejs,react,ts,python,php,js,java,postgres,supabase,html,css,git,github,vscode,docker,vercel" />
 
 </div>
 
